@@ -11,16 +11,16 @@ Bruk av Vite og github for å hoste nettsted.
 
 Installer avhengighetene:
 
-```bash
+
 pnpm install
-```
+
 
 ## Utvikling
 
 Start sserveren:
 
-```bash
+
 pnpm dev
-```
+
 
 Åpne via terminalen(`http://localhost:5173`).
